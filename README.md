@@ -8,7 +8,7 @@ Please feel free to comment and provide suggestions.
 ***
 
 ### Table of Content
-* <a href="#h1">`GBM`</a>
+* [GBM](https://github.com/sx910604/Selected_ML_Papers#GBM)
 
 * Sampling
 * Recommender Systems
@@ -18,4 +18,4 @@ Please feel free to comment and provide suggestions.
 
 ***
 
-<a id="head"/>
+[GBM]
