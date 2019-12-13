@@ -8,8 +8,8 @@ Please feel free to comment and provide suggestions.
 ***
 
 ### Table of Content
-<a id="head"/>
 * <a href="#h1">`GBM`</a>
+
 * Sampling
 * Recommender Systems
 * CTR
