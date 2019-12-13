@@ -19,28 +19,49 @@ Please feel free to comment and provide suggestions.
 
 ### GBM
 1111
+
 22
+
 2
 3
+
 4
+
 5
+
 6
 6
+
 7
 8
+
 9
+
 9
+
+
 9
+
 9
+
 
 ###Sampling
 
 1
+
 e
-fw
+
 f
+
+w
+
 f
-wd
+
+f
+
+w
+
+d
 
 
 
