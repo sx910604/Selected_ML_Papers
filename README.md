@@ -18,13 +18,29 @@ Please feel free to comment and provide suggestions.
 ***
 
 ### GBM
+* Ke, Guolin, et al. "Lightgbm: A highly efficient gradient boosting decision tree." Advances in Neural Information Processing Systems. 2017.
+* Chen, Tianqi, and Carlos Guestrin. "Xgboost: A scalable tree boosting system." Proceedings of the 22nd acm sigkdd international conference on knowledge discovery and data mining. ACM, 2016.
+
+***
 
 ### Unbalanced
 
+
+***
+
 ### CTR
+
+
+***
 
 ### Recommender System
 
+
+***
+
 ### NLP
+
+
+***
 
 ### Misc
