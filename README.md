@@ -9,60 +9,22 @@ Please feel free to comment and provide suggestions.
 
 ### Table of Content
 * [GBM](https://github.com/sx910604/Selected_ML_Papers#GBM)
-* Sampling
-* Recommender Systems
+* [Unbalanced](https://github.com/sx910604/Selected_ML_Papers#Unbalanced)
+* [Recommender System](https://github.com/sx910604/Selected_ML_Papers#Recommender-System)
 * [CTR](https://github.com/sx910604/Selected_ML_Papers#CTR)
-* NLP
-* Misc
+* [NLP](https://github.com/sx910604/Selected_ML_Papers#NLP)
+* [Misc](https://github.com/sx910604/Selected_ML_Papers#Misc)
 
 ***
 
 ### GBM
-1111
 
-22
-
-2
-3
-
-4
-
-5
-
-6
-6
-
-7
-8
-
-9
-
-9
-
-
-9
-
-9
-
-
-### Sampling
-
-1
-
-e
-
-f
-
-w
-
-f
-
-f
-
-w
-
-d
-
-
+### Unbalanced
 
 ### CTR
+
+### Recommender System
+
+### NLP
+
+### Misc
