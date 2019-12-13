@@ -9,7 +9,7 @@ Please feel free to comment and provide suggestions.
 
 ### Table of Content
 <a id="head"/>
-* GBMs
+* <a href="#h1">`GBM`</a>
 * Sampling
 * Recommender Systems
 * CTR
@@ -18,5 +18,4 @@ Please feel free to comment and provide suggestions.
 
 ***
 
-### GBM
-<a href="#head">`点这里从头再读一遍`</a>
+<a id="head"/>
