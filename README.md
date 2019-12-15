@@ -4,7 +4,7 @@ This is a collection of selected machine learning papers I read as a data scient
 
 Please feel free to comment and provide suggestions. 
 
-The list is for study purpose. If any author does not want the paper be listed, please contact xiangshen@gwu.edu. 
+The list is for study purpose only. If any author does not want the paper be listed, please contact xiangshen@gwu.edu. 
 
 
 ***
