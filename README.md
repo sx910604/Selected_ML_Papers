@@ -1,8 +1,10 @@
 # Selected Machine Learning Papers
 
-This is a collection of selected machine learning papers I read as a data scientist and it could be used when prepared for interviews. The collections mainly includes papers of influential machine learning approaches which may be beyond the scope of machine learning courses. The collection does not focus on the deep learning and its application but it may includes quite a few techinques and applications.
+This is a collection of selected machine learning papers I read as a data scientist and it could be used when prepared for interviews. The collections mainly includes papers of influential machine learning approaches which may be beyond the scope of machine learning courses or may not appear in machine learning textbook. The collection does not focus on the deep learning and its application but it may includes quite a few techinques and applications.
 
-Please feel free to comment and provide suggestions.
+Please feel free to comment and provide suggestions. 
+
+The list is for study purpose. If any author does not want the paper be listed, please contact xiangshen@gwu.edu. 
 
 
 ***
@@ -24,7 +26,7 @@ Please feel free to comment and provide suggestions.
 ***
 
 ### Unbalanced
-
+* Chawla, Nitesh V., et al. "SMOTE: synthetic minority over-sampling technique." Journal of artificial intelligence research 16 (2002): 321-357.
 
 ***
 
@@ -34,7 +36,7 @@ Please feel free to comment and provide suggestions.
 ***
 
 ### Recommender System
-
+* Rendle, Steffen. "Factorization machines." 2010 IEEE International Conference on Data Mining. IEEE, 2010.
 
 ***
 
