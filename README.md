@@ -10,27 +10,24 @@ The list is for study purpose only. If any author does not want the paper be lis
 ***
 
 ### Table of Content
-* [GBM](https://github.com/sx910604/Selected_ML_Papers#GBM)
-* [Unbalanced](https://github.com/sx910604/Selected_ML_Papers#Unbalanced)
+* [Classic Machine Learning](https://github.com/sx910604/Selected_ML_Papers#Classic-Machine-Learning)
+* [Deep Learning](https://github.com/sx910604/Selected_ML_Papers#Deep-Learning)
 * [Recommender System](https://github.com/sx910604/Selected_ML_Papers#Recommender-System)
-* [CTR](https://github.com/sx910604/Selected_ML_Papers#CTR)
 * [NLP](https://github.com/sx910604/Selected_ML_Papers#NLP)
 * [Misc](https://github.com/sx910604/Selected_ML_Papers#Misc)
 
 ***
 
-### GBM
+### Classic Machine Learning
 * Ke, Guolin, et al. "Lightgbm: A highly efficient gradient boosting decision tree." Advances in Neural Information Processing Systems. 2017.
 * Chen, Tianqi, and Carlos Guestrin. "Xgboost: A scalable tree boosting system." Proceedings of the 22nd acm sigkdd international conference on knowledge discovery and data mining. ACM, 2016.
-
-***
-
-### Unbalanced
 * Chawla, Nitesh V., et al. "SMOTE: synthetic minority over-sampling technique." Journal of artificial intelligence research 16 (2002): 321-357.
+* Snoek, Jasper, Hugo Larochelle, and Ryan P. Adams. "Practical bayesian optimization of machine learning algorithms." Advances in neural information processing systems. 2012.
 
 ***
 
-### CTR
+### Deep Learning
+* Chawla, Nitesh V., et al. "SMOTE: synthetic minority over-sampling technique." Journal of artificial intelligence research 16 (2002): 321-357.
 
 
 ***
