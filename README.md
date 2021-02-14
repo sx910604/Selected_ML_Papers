@@ -15,7 +15,7 @@ The list is for study purpose only. If any author does not want the paper be lis
 * [Recommender System](https://github.com/sx910604/Selected_ML_Papers#Recommender-System)
 * [Natural Language Processing](https://github.com/sx910604/Selected_ML_Papers#NLP)
 * [Computer Vision](https://github.com/sx910604/Selected_ML_Papers#CV)
-[comment]: # * [Reinforcement Learning](https://github.com/sx910604/Selected_ML_Papers#RL)
+* [Reinforcement Learning](https://github.com/sx910604/Selected_ML_Papers#RL)
 * [Blogs](https://github.com/sx910604/Selected_ML_Papers#Blogs)
 
 ***
