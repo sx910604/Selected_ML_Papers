@@ -29,6 +29,7 @@ The list is for study purpose only. If any author does not want the paper be lis
 * **t-SNE** Van der Maaten, Laurens, and Geoffrey Hinton. "Visualizing data using t-SNE." Journal of machine learning research 9.11 (2008).
 * **Shap** Lundberg, Scott M., Gabriel G. Erion, and Su-In Lee. "Consistent individualized feature attribution for tree ensembles." arXiv preprint arXiv:1802.03888 (2018).
 * **LIME** Ribeiro, Marco Tulio, Sameer Singh, and Carlos Guestrin. "" Why should i trust you?" Explaining the predictions of any classifier." Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining. 2016.
+* **CRF** Lafferty, John, Andrew McCallum, and Fernando CN Pereira. "Conditional random fields: Probabilistic models for segmenting and labeling sequence data." (2001).
 ***
 
 ## Deep Learning
@@ -37,6 +38,7 @@ The list is for study purpose only. If any author does not want the paper be lis
 * Ioffe, Sergey, and Christian Szegedy. "Batch normalization: Accelerating deep network training by reducing internal covariate shift." International conference on machine learning. PMLR, 2015.
 * Ba, Jimmy Lei, Jamie Ryan Kiros, and Geoffrey E. Hinton. "Layer normalization." arXiv preprint arXiv:1607.06450 (2016).
 * Kingma, Diederik P., and Jimmy Ba. "Adam: A method for stochastic optimization." arXiv preprint arXiv:1412.6980 (2014).
+* **SWA** Izmailov, Pavel, et al. "Averaging weights leads to wider optima and better generalization." arXiv preprint arXiv:1803.05407 (2018).
 
 
 ***
@@ -66,7 +68,7 @@ The list is for study purpose only. If any author does not want the paper be lis
 * Wordpiece
 * UniLM
 
-### Transformers
+### Transformer and Pretraining
 
 ### Multi-task learning
 
@@ -75,17 +77,17 @@ The list is for study purpose only. If any author does not want the paper be lis
 
 ***
 
-### Computer Vision
+## Computer Vision
 
 
 ***
 
-### Reinforcement Learning
+## Reinforcement Learning
 
 
 ***
 
-### Blogs
+## Blogs
 * Expedia Group Tech Blog https://medium.com/expedia-group-tech
 * Bookings Tech Blog https://blog.booking.com/
 * Ctrip Tech https://zhuanlan.zhihu.com/ctriptech  (Chinese)
