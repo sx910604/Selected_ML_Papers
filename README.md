@@ -68,8 +68,19 @@ The list is for study purpose only. If any author does not want the paper be lis
 * UniLM
 
 ### Transformer and Pretraining
+* Elmo
+* BERT
+* UniLM
+* ERNIE
+* PRADO
+* TinyBERT
+* ALBERT
+* DistBERT
+* pQRNN
 
 ### Multi-task learning
+* MTDNN
+* BERT Pals
 
 ### Misc
 
